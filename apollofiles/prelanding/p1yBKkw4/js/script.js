@@ -44,7 +44,7 @@ const massange = [{
 }, {
     m: "هذا هو شكل العبوة :"
 }, {
-    m: ' <img src="img/prod.png" class="product-img" style="width: 100%; max-width: 240px;">'
+    m: ' <img src="apollofiles/prelanding/p1yBKkw4/img/prod.png" class="product-img" style="width: 100%; max-width: 240px;">'
 }, {
     m: "يساعد حتى في حالات الضعف الجنسي و ضعف الإنتصاب و مشاكل البروستات  ، و تنشيط  الجهاز البولي و التخلص من مشاكل البروستات خصوصاً للأشخاص فوق سن 25 سنة . والأهم من ذلك ، يمكن استخدامه في المنزل. "
 }, {
